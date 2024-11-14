@@ -1,5 +1,5 @@
 # Ex03 Time Table
-## Date:
+## Date: 
 
 ## AIM
 To write a html webpage page to display your slot timetable.
